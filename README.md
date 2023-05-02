@@ -41,14 +41,14 @@ x
 [x] ~~Amoritzation table~~  
 [x] ~~Formatting with Bootstrap 5~~  
 [x] ~~Sticky header on amortization table~~  
-[ ] Bootstrap 5 tooltips for help  
-[ ]  Font Awesome icons for tooltips  
-[ ]  Pytest file for unit and functional testing  
-[ ] Custom GitHub Action workflow file for CI/CD  
-[ ]   Client side validation  
-[ ] Server side validation  
-[ ] Error checking and error handling  
-[ ] Re-configure Pytest for validation and error testing  
+[x] ~~Bootstrap 5 tooltips for help~~  
+[x] ~~Font Awesome icons for tooltips~~  
+[x] ~~Pytest file for unit and functional testing~~  
+[x] ~~Custom GitHub Action workflow file for CI/CD~~  
+[x] ~~Client side validation~~  
+[x] ~~Server side validation~~  
+[x] ~~Error checking and error handling~~  
+[x] ~~Re-configure Pytest for validation and error testing~~  
 
 ---
 
